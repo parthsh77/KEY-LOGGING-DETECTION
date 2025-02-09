@@ -113,6 +113,3 @@ This project is for educational and ethical purposes only. Do not use it for mal
 ## Support
 
 If you encounter any issues or have questions, please open an issue on the [GitHub repository](https://github.com/your-username/KEY-LOGGING-DETECTION/issues).
-```
-
----
