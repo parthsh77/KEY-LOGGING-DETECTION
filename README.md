@@ -42,8 +42,8 @@ Before using this project, ensure you have the following installed:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/keylogger-detector.git
-   cd keylogger-detector
+   git clone https://github.com/parthsh77/KEY-LOGGING-DETECTION.git
+   cd KEY-LOGGING-DETECTION
    ```
 
 2. **Install Dependencies**:
@@ -81,7 +81,7 @@ Before using this project, ensure you have the following installed:
 ## Project Structure
 
 ```
-keylogger-detector/
+KEY-LOGGING-DETECTION/
 ├── main.py                # Main CLI interface
 ├── detector.py            # Core detection logic
 ├── logger.py              # Logging detected activities
