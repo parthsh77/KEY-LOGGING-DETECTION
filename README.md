@@ -1,6 +1,6 @@
-# Key-Logging Detection System
+# Key-Logging Detection
 
-A CLI-based cybersecurity project to detect and prevent unauthorized keylogging activities on Linux and Windows systems. The system monitors keyboard inputs, detects suspicious processes, and analyzes network activity to identify potential keyloggers.
+The Key Logging Derection project to detect and prevent unauthorized keylogging activities on Linux and Windows systems. The system monitors keyboard inputs, detects suspicious processes, and analyzes network activity to identify potential keyloggers.
 
 ---
 
